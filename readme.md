@@ -15,20 +15,6 @@
 <ol> 
     <li>Should the new page be adopted?</li>
 </ol>
-> For the Regression part, the hypotheses were: 
->
-> **$H_{0}$**: **$p_{new}$**  == **$p_{old}$**
->
->**$H_{1}$**: **$p_{new}$**  !=  **$p_{old}$** 
->
-> Whereas, for the part II, the hypotheses are: 
->
-> **$H_{0}$**: **$p_{new}$**  -  **$p_{old}$**  <=  0
->
->**$H_{1}$**: **$p_{new}$**  -  **$p_{old}$**  >  0
->
-> Thus, the two p_values are supposed to be different since the nulls are different.
-
 
 ## Summary of Findings
 
